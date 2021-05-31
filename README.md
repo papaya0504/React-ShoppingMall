@@ -1,3 +1,7 @@
+## ShoppingMall
+본 프로젝트는 포트폴리오 용으로 만들어진 쇼핑몰 입니다.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
